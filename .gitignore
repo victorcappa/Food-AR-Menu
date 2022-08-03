@@ -2,4 +2,4 @@
 *.csr
 *.key
 *.key.org
-*/.vscode
+*.vscode
